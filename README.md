@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Replify AI 🚀
 
 Replify AI is an AI-powered conversation analysis and smart reply generator that helps users understand chat sentiment and craft better responses.
@@ -72,3 +73,7 @@ npm run dev
 ## Author
 
 Kanishk Yadav
+=======
+# replify-ai
+AI-powered conversation analysis and smart reply generator built with React and FastAPI.
+>>>>>>> 9f9458685ed246904a85effa2d07ab717484d6a0
